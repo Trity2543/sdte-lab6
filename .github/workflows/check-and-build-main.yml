@@ -33,4 +33,3 @@ jobs:
           file: ./Dockerfile
           tags: milo2543/sdte-lab6:latest
           push: true
-  
